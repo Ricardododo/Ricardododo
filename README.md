@@ -16,7 +16,7 @@ Actualmente estoy finalizando mis estudios y buscando mi primera oportunidad com
 
 - [**PRIORIZA**](https://github.com/Ricardododo/PRIORIZA.git)
 - **App de escritorio, Gestor de tareas inteligente**.
-- Motor de reglas Heurísticas que prioriza de forma automatica las tareas del usuario.
+- Motor de reglas Heurísticas que prioriza de forma automática las tareas del usuario.
 - Notificaciones y alertas a email, generador PDF, compartir por WhatsApp.
 - Java, JavaFx, Maven, SQLite
 
