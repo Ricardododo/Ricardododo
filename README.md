@@ -1,5 +1,8 @@
 # ¡Hola! Soy Ricardo Hernández 👋
 
+<img src="https://raw.githubusercontent.com/Ricardododo/efecto-typing-retro/main/typing-badge.svg" alt="typing effect">
+
+
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por crear soluciones tecnológicas que faciliten la vida de las personas. Actualmente estoy finalizando mis estudios y buscando mi primera oportunidad como desarrollador.
 
 ## 🛠️ Tecnologías y herramientas
