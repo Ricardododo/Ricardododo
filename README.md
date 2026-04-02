@@ -18,11 +18,19 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasiona
 
 Adivina una palabra secreta de entre 100 palabras de programación como python, java, git, docker, etc.
 
-¡Intenta adivinar todas las vocales y consonantes!
+### 🎯 [JUGAR AHORA](https://ricardododo.github.io/ahorcado-web/)
 
-<p align="center">
-  <iframe src="https://ricardododo.github.io/ahorcado-web/" width="100%" height="600" style="border:0 !important;margin-right:auto;!important;allowfullscreen"></iframe>
-</p>
+<div align="center">
+  <iframe 
+    src="https://ricardododo.github.io/ahorcado-web/"
+    width="100%"
+    height="550"
+    frameborder="0"
+    allowfullscreen
+    loading="lazy"
+    style="border: 2px solid #00ff41; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
+  </iframe>
+</div>
 
 ## 📌 Proyecto
 
