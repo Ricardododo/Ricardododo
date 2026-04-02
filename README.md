@@ -12,7 +12,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasiona
 ![WSL](https://img.shields.io/badge/WSL-333333?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎮 Juego: Ahorcado RETRO
+## 🎮 Juego: Ahorcado
 
 ¡Juega al ahorcado directamente desde mi perfil!
 
