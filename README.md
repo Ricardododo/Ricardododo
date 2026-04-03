@@ -1,6 +1,11 @@
 # ¡Hola! Soy Ricardo Hernández 👋
 
-<img src="https://raw.githubusercontent.com/Ricardododo/efecto-typing-retro/main/typing-badge.svg" alt="typing effect">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Finalizando+DAM;++;Disponible+para+Prácticas;Java+SQL+Andoid;Adaptable+y+con ganas de aprender;Python+en+progeso;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por crear soluciones tecnológicas que faciliten la vida de las personas. Actualmente estoy finalizando mis estudios y buscando mi primera oportunidad como desarrollador.
