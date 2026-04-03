@@ -1,11 +1,6 @@
 # ¡Hola! Soy Ricardo Hernández 👋
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Finalizando+DAM;++;Disponible+para+Prácticas;Java+SQL+Andoid;Adaptable+y+con ganas de aprender;Python+en+progeso;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Finalizando+DAM+;Disponible+para+Pr%C3%A1cticas;Java%2C+SQL%2C+Android%2C+Spring-Boot;Python+en+progreso;Mejorando+en+WEB;Adaptable+y+con+ganas+de+aprender;Love+to+learn+new+stuff!" alt="Typing SVG" /></a>
 
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por crear soluciones tecnológicas que faciliten la vida de las personas. Actualmente estoy finalizando mis estudios y buscando mi primera oportunidad como desarrollador.
