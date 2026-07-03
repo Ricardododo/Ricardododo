@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ricardo Hernández 👋 
 
-![Profile views](https://komarev.com/ghprofileviews/?username=Ricardododo)
+![](https://github-visitor-counter-tau.vercel.app/api?username=ricardododo)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Finalizando+DAM+;Disponible+para+Pr%C3%A1cticas;Java%2C+SQL%2C+Android%2C+Spring-Boot;Python+en+progreso;Java+Lover;Adaptable+y+con+ganas+de+aprender;Love+to+learn+new+stuff!" alt="Typing SVG" /></a>
 
