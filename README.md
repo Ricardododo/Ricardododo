@@ -48,7 +48,7 @@ Adivina una palabra secreta de entre 100 palabras de programación como python, 
 
 ## 🌱 Actualmente estoy aprendiendo...
 
-- Desarrollo con IA, agentes IA.
+- Microservicios.
 - Testing automatizado con JUnit y Mockito.
 - Mejores prácticas de UI/UX en Android.
 
