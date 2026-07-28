@@ -38,7 +38,7 @@ Adivina una palabra secreta de entre 100 palabras de programación como python, 
   </iframe>
 </div>
 
-## 📌 Proyecto
+## 📌 Proyectos
 
 - [**PRIORIZA**](https://github.com/Ricardododo/PRIORIZA.git)
 - **App de escritorio, Gestor de tareas inteligente**.
