@@ -17,6 +17,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasiona
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-333333?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 
 ## 🎮 Juego: Ahorcado
 
