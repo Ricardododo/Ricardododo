@@ -3,7 +3,7 @@
 ![Visitas únicas](https://raw.githubusercontent.com/Ricardododo/Ricardododo/traffic-data/badge.svg)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Finalizando+Pr%C3%A1cticas;Disponible;Java%2C+SQL%2C+Spring-Boot%2C+Arquitectura Hexagonal;Python+en+progreso;Java+Lover;Adaptable+y+con+ganas+de+aprender;Love+to+learn+new+stuff!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Finalizando+Pr%C3%A1cticas;Disponible;Java%2C+SQL%2C+Spring-Boot;Arquitectura Hexagonal;Java+Lover;Adaptable+y+con+ganas+de+aprender;Love+to+learn+new+stuff!" alt="Typing SVG" /></a>
 
 
 💻 Junior Java Backend Developer | Java 21 | Spring Boot
