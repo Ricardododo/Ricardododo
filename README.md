@@ -28,27 +28,6 @@ Desarrollador backend en prácticas en una consultora tecnológica multinacional
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA25?style=for-the-badge&logo=swagger&logoColor=white)
 
-
-## 🎮 Juego: Ahorcado
-
-¡Juega al ahorcado directamente desde mi perfil!
-
-Adivina una palabra secreta de entre 100 palabras de programación como python, java, git, docker, etc.
-
-### 🎯 [JUGAR AHORA](https://ricardododo.github.io/ahorcado-web/)
-
-<div align="center">
-  <iframe 
-    src="https://ricardododo.github.io/ahorcado-web/"
-    width="100%"
-    height="550"
-    frameborder="0"
-    allowfullscreen
-    loading="lazy"
-    style="border: 2px solid #00ff41; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
-  </iframe>
-</div>
-
 ## 📌 Proyectos
 
 - [**PRIORIZA**](https://github.com/Ricardododo/PRIORIZA.git)
