@@ -40,13 +40,10 @@ Desarrollador backend en prácticas en una consultora tecnológica multinacional
 
 - Microservicios.
 - Testing automatizado con JUnit y Mockito.
-- Mejores prácticas de UI/UX en Android.
 
-## 💡 Intereses
+## 🎯 Objetivo profesional
 
-- Crear aplicaciones que resuelvan problemas cotidianos.
-- Colaborar en proyectos open source.
-- Seguir aprendiendo y creciendo como desarrollador.
+- Seguir creciendo como desarrollador Java Backend, participando en proyectos donde pueda aplicar buenas prácticas de desarrollo, diseño de software y arquitectura backend.
 
 ## 📫 ¿Hablamos?
 
