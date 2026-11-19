@@ -36,11 +36,6 @@ Desarrollador backend en prácticas en una consultora tecnológica multinacional
 - Notificaciones y alertas a email, generador PDF, compartir por WhatsApp.
 - Java, JavaFx, Maven, SQLite
 
-## 🌱 Actualmente estoy aprendiendo...
-
-- Microservicios.
-- Testing automatizado con JUnit y Mockito.
-
 ## 🎯 Objetivo profesional
 
 - Seguir creciendo como desarrollador Java Backend, participando en proyectos donde pueda aplicar buenas prácticas de desarrollo, diseño de software y arquitectura backend.
